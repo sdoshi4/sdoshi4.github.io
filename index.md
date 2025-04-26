@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hi, I'm Shaan, a sophomore at the University of Illinois Urbana-Champaign. I'm getting a dual degree in Computer Science and Physics as well as a Math minor, so I'm learning a ton of cool things, and created this blog so I could write down the things I really liked learning for everyone to see. My goal is to look back at this in a couple years and have a massive database of awesome derivations/proofs/descriptions of subjects I'll probably forget at some point in the future, so I can relearn them!
