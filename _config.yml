@@ -22,9 +22,13 @@ theme: "minima"
 
 rss: rss
 
+markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     disable: true
+  math_engine: mathjax
+  math_engine_opts:
+    preview: false
     
 plugins:
   - jekyll-feed
