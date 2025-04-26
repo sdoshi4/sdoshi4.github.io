@@ -16,4 +16,4 @@ We can introduce another angle $\phi$ as the angle between the $x$-axis and $\ma
 
 Here is a picture of our current setup:
 
-![Polar Rotation](images/polarRotation.png)
+![Polar Rotation](~/images/polarRotation.png)
