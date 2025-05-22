@@ -103,7 +103,7 @@ See how we can apply PIE now!
 
 $$|D_n| = |S| - |A_1| - |A_2| - \dots |A_n| \quad + \quad |A_1 \cap A_2| + \dots |A_i \cap A_j| \quad  - \quad |A_i \cap A_j \cap A_k| \dots$$
 
-Now we just have to find the cardinalities of our sets containing $A_i$'s. For all $|A_1|, |A_2|, \dots |A_n|$ we have exactly one element with a pre-determined mapping, so going through $n-1$ undetermined elements, we have a total number of $(n-1)!$ permutations. Applying the same logic to $|A_i \cap A_j|$, we have two predetermined elements, giving us $(n-2)!$ permutations. This continues down to $|A_1 \cap A_2 \dots \cap A_n|$ where every element is determined, so you only have one mapping, the identity permutation. 
+Now we just have to find the cardinalities of our sets containing $A_i$'s. For all $\lvert A_1 \rvert$, $\lvert A_2 \rvert$, $\dots$ $\lvert A_n \rvert$ we have exactly one element with a pre-determined mapping, so going through $n-1$ undetermined elements, we have a total number of $(n-1)!$ permutations. Applying the same logic to $\lvert A_i \cap A_j \rvert$, we have two predetermined elements, giving us $(n-2)!$ permutations. This continues down to $\lvert A_1 \cap A_2 \dots \cap A_n \rvert$ where every element is determined, so you only have one mapping, the identity permutation. 
 
 The next question is how many sets do we have with $1$ $A_i$ in them, $2$ $A_i$'s (intersected together), $k$ $A_i$'s, etc. This can easily be seen to be $n\choose k$ since this is how many ways we can chose $k$ of the $n$ $A_i$'s
 
