@@ -41,9 +41,9 @@ $$\frac{\frac{\cancel{2h}}{\sqrt{c^2-v^2}}}{\frac{\cancel{2h}}{c}} = \frac{c}{\s
 
 $$\implies \frac{t_B}{t_A} = \frac{1}{\sqrt{1-v^2/c^2}} \equiv \gamma$$
 
-This means that the time elapsed differs between observers by this multiplicative factor we define as gamma. Gamma is a very important factor that comes up a lot in special relativity, which is why it has its own name. Notice that it's dependent on $v$, and is always above 1 if we graph it.
+This means that the time elapsed differs between observers by this multiplicative factor we define as gamma. Gamma is a very important factor that comes up a lot in special relativity, which is why it has its own name. Notice that it's dependent on $v$, and is always above 1 if you graph it.
 
-![Gamma graph](/images/gamma.png)
+<!-- ![Gamma graph](/images/gamma.png) -->
 
 Now if we define the proper reference frame as the frame in which the position does not change between the start and end of the event you are timing, then A is the proper observer, since in its frame, the laser pointer never moves. The proper observer measures proper time, while all other observers measure an improper time. This then gives us
 
