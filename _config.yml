@@ -28,7 +28,7 @@ kramdown:
     disable: true
   math_engine: null
   math_engine_opts:
-    preview: false
+    preview: mathjax
     
 plugins:
   - jekyll-feed
