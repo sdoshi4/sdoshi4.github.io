@@ -87,7 +87,7 @@ THe power of PIE lies in simplifying challenging combinatorics problems into cho
 
 Let's reformulate our set $D_n$ into the set difference of our universe (all permutations) and a bunch of forbidden sets $A_i$ (this is exactly set complement PIE).
 
-So $S$ is the set of all permutations, and we already know $|S| = n!$
+So $S$ is the set of all permutations, and we already know $\lvert S \rvert = n!$
 
 What are our $A_i$'s? What must dearrangements not have? An element that maps to itself! So if we have $n$ elements, we can have:
 
