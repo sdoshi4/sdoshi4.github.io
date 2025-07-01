@@ -37,7 +37,7 @@ $$D=rt \implies t_B = \frac{2h}{\sqrt{c^2-v^2}}$$
 
 Taking the ratio between $t_B$ and $t_A$, we get 
 
-$$\frac{\frac{\cancel{2h}}{\sqrt{c^2-v^2}}}{\frac{\cancel{2h}}{c}} = \frac{c}{\sqrt{c^2-v^2}} \cdot \frac{1/c}{1/c} = \frac{1}{\frac{\sqrt{c^2-v^2}}{c}} = \frac{1}{\sqrt{\frac{c^2-v^2}{c^2}}}$$
+$$\frac{\frac{\red{2h}}{\sqrt{c^2-v^2}}}{\frac{\red{2h}}{c}} = \frac{c}{\sqrt{c^2-v^2}} \cdot \frac{1/c}{1/c} = \frac{1}{\frac{\sqrt{c^2-v^2}}{c}} = \frac{1}{\sqrt{\frac{c^2-v^2}{c^2}}}$$
 
 $$\implies \frac{t_B}{t_A} = \frac{1}{\sqrt{1-v^2/c^2}} \equiv \gamma$$
 
@@ -79,7 +79,7 @@ $$t_B = \frac{L_B}{c-v} + \frac{L_B}{c+v}$$
 
 $$= \frac{L_B(c+v)}{c^2-v^2} + \frac{L_B(c-v)}{c^2-v^2}$$
 
-$$= \frac{L_B c + \cancel{L_B v} + L_B c - \cancel{L_B v}}{c^2-v^2}$$
+$$= \frac{L_B c + \red{L_B v} + L_B c - \red{L_B v}}{c^2-v^2}$$
 
 $$= \frac{2 L_B c}{c^2-v^2} \cdot \frac{1/c^2}{1/c^2} = \frac{\frac{2L_B}{c}}{1-\frac{v^2}{c^2}}$$ 
 
@@ -93,7 +93,7 @@ So plugging in for $t_B$, and then plugging in for $t_A$, we get:
 
 $$\gamma t_A = \gamma^2 \frac{2L_B}{c}$$
 
-$$\cancel{\gamma} \frac{\cancel{2}L_A}{\cancel{c}} = \gamma^{\cancel{2}} \frac{\cancel{2}L_B}{\cancel{c}}$$
+$$\red{\gamma} \frac{\red{2}L_A}{\red{c}} = \gamma^{\red{2}} \frac{\red{2}L_B}{\red{c}}$$
 
 $$L_A = \gamma L_B$$
 
@@ -108,3 +108,5 @@ This is length contraction! Notice that the contraction part comes from the fact
 ## Effect 3: Rear-Clock Ahead
 
 Coming Soon
+
+$\red{2h}$
