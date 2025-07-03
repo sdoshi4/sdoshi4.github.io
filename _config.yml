@@ -29,6 +29,9 @@ kramdown:
   math_engine: mathjax
   math_engine_opts:
     preview: false
+    js_options:
+      tex:
+        packages: ["base", "cancel"]
     
 plugins:
   - jekyll-feed
