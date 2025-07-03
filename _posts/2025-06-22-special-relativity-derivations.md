@@ -109,4 +109,4 @@ This is length contraction! Notice that the contraction part comes from the fact
 
 Coming Soon
 
-$\cancel{2h}$
+$\require{cancel} \cancel{2h}$
