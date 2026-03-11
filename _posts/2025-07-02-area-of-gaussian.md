@@ -46,6 +46,18 @@ Thank you Raghav my Math & CS goat for originally showing me this one day in CS1
 
 $$\square$$
 
+## Quantum Mechanics Addition
+
+In quantum mechanics, you often encounter integrals of the following form from normalizing wavefunctions or calculating expectation values:
+
+$$\int_{-\infty}^{\infty}e^{-kx^2} dx$$
+
+I'd just like to note that you can do the integral in the same exact way, and you end up getting:
+
+$$\boxed{\int_{-\infty}^{\infty}e^{-kx^2} dx = \sqrt{\frac{\pi}{k}}}$$
+
+I put this here in case I forget.
+
 ## Appendix
 
 I said I'd show why $dA = rdrd\theta$ so here goes:
